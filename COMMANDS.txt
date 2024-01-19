@@ -1,0 +1,31 @@
+1. "max" - Responds with "Yes, sir."
+2. "turn off" - Shuts down the virtual assistant.
+3. "who are you" - Provides information about the virtual assistant.
+4. "who created you" - Provides information about the creator.
+5. "open pc" - Opens the File Explorer.
+6. "search this pc" - Searches files on the computer.
+7. "press enter" - Acts as if you pressed the Enter key.
+8. "close pc" - Closes the File Explorer if it's open.
+9. "make a note" - Opens Notepad to create a new note.
+10. "type" - Writes the specified text in Notepad.
+11. "save it" - Saves the current file in Notepad.
+12. "close notepad" - Shuts down Notepad.
+13. "open command prompt" - Initiates the Command Prompt.
+14. "close command prompt" - Shuts down the Command Prompt if it's open.
+15. "refresh window" - Reloads the active window.
+16. "play music" - Starts playing a random music track from a specified directory.
+17. "close music" - Stops the music player (Windows Media Player).
+18. "tell me the time" - Gives you the current time.
+19. "shutdown system" - Turns off the computer.
+20. "restart system" - Reboots the computer.
+21. "open camera" - Launches the Camera app.
+22. "close camera" - Ends the Camera app if it's running.
+23. "take a screenshot" - Captures and saves a picture of the screen.
+24. "volume up" - Increases the system's sound volume.
+25. "volume down" - Decreases the system's sound volume.
+26. "open whatsapp" - Starts the WhatsApp application.
+27. "search in start" - Begins a search in the Start menu.
+28. "enter" - Acts as if you pressed the Enter key.
+29. "close it" - Tries to shut down the active window.
+30. "remove letter" - Erases a character as if you pressed the Backspace key.
+31. "remove word" - Deletes a word as if you pressed Ctrl+Backspace.
